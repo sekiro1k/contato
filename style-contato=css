@@ -1,0 +1,60 @@
+header {background:#BBBBBB;
+  padding:20px o;}
+nav l0i {display: inline;margin: 0 0 0 15px;}
+
+nav a {text-transorm: uppercase;
+color:0000000;
+font-weight: bold;
+font-size:42px;
+text-decoration: none;}
+caixa {position: relative;
+  width 940px;
+  margin: 0 auto;}
+
+nav {position:absolute;
+  top: 100px;
+  right: 0;}
+.produtos {
+   width: 940px;
+   margin: 0 auto;
+   padding: 40px;
+}
+
+.produtos li {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+  margin: 0 1.5%;
+  padding: 30px 20px;
+  box-sizing:border-box;
+  border:3px solid #000000;
+  border-radius: 55px;}
+.produtos  h2 {
+   font-size: 35px;
+   font-weight:bold;
+}
+.produtos-descricao {
+   font-size: 15px;
+ }
+.produtos-preco {
+   font-size: 34px;
+   font-weight: bold;
+   margin-top:00px}
+nav a:hover {
+  color: #c78c19;
+  text-decoration: underline;}
+.produtos li:hover {
+  border-color: #c78c19;}
+.produtos li:ative {
+  berder-color
+}
+main{ width940px; margin:0 auto;}
+
+form{ margin:40px;}
+
+form label{ display:block; font-size:20px:
+margin:0 0 10px;}
+
+form input{ display:block; margin:0 0 20px;
+padding:10px 25px; width:50%;}
